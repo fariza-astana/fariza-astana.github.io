@@ -56,6 +56,22 @@ ul {
 	margin: 0 auto;
 	text-align: left;
 }
+.img {
+	width: 30px;
+	height: 30px;
+}
+.img:hover {
+	transform: scale(1.5);
+	transition: 0.5s;
+}
+.img-heroku {
+	width: 40px;
+	height: 40px;
+}
+.img-heroku:hover {
+	transform: scale(1.5);
+	transition: 0.5s;
+}
 	
 	
 	
